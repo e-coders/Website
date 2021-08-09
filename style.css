@@ -1,0 +1,195 @@
+/* Copyright 2021-2024 E - Coders || All Rights Reserved */
+body{
+	font-family: verdana;
+	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+	user-select: none;
+    padding: 25px;
+}
+a{
+	text-decoration: none;
+	text-decoration-style: none;
+	text-decoration-line: none;
+	font-family: verdana;
+}
+nav{
+	font-size: 3vh;
+	scroll-behavior: all;
+}
+li{
+	display: block;
+}
+.link-black{
+	color: black;
+}
+.link-hover-blue:hover{
+	color: blue;
+}
+.link-blue{
+	color: blue;
+}
+.link-hover-black:hover{
+	color:black;
+}
+.nav-profile-text{
+	color: #12BF94;
+}
+.margin-2{
+	margin: 2px;
+}
+.border{
+	border: 3px solid black;
+	margin: 1rem;
+	padding: 1rem;
+}
+.align-right{
+	text-align: right;
+	font-size: 2.5vh;
+}
+.verdana{
+	font-family: verdana;
+}
+.welcome-txt{
+	color: yellowgreen;
+}
+.welcome-txt-small{
+	color: lightgreen;
+}
+.green-txt{
+	color: #12BF94;
+}
+.icon-canvas{
+	background-image: url('icon.jpg');
+	background-size: cover;
+}
+.skip-txt{
+	text-align: right;
+	width: 100%;
+    display: block;
+}
+.videos-links{
+	text-align: left;
+	margin: 3px;
+	width: 100%;
+	display: block;
+}
+button{
+	margin: 3px;
+	position: absolute;
+	width: 95%;
+	display: block;
+	color: black;
+	text-shadow: 9px;
+	background-color: #12BF94;
+	border: none;
+	align: center;
+	user-select: none;
+}
+button:hover{
+	margin: 3px;
+	position: absolute;
+	width: 95%;
+	display: block;
+	color: black;
+	text-shadow: 9px;
+	background-color: #058061;
+	border: none;
+	align: center;
+	user-select: none;
+}
+.trailer-frame{
+	margin: 3px;
+	width: 99%;
+	align: center;
+	display: block;
+	font-family: verdana;
+	user-select: none;
+}
+.tutorials{
+	width: 100%;
+	align: center;
+	display: block;
+}
+#preloader{
+	background: url(loader.gif) no-repeat center center;
+	background-size: 15%;
+	height: 100%;
+	width: 100%;
+	position: fixed;
+	z-index: 100;
+	overflow: hidden;
+	overflow-x: hidden;
+	overflow-y: hidden;
+	color: white;
+	text-align: center;
+	height: 100%;
+	display: block;
+	align-items: center;
+ 	justify-content: center;
+}
+.gradient{
+	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+}
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+.loading-txt{
+	position: absolute;
+	bottom: 150px;
+	text-align: center;
+	display: block;
+	width: 100%;
+	text-decoration: none;
+	user-select: none;
+}
+h3{
+	text-decoration: none;
+	user-select: none;
+}
+.center{
+	display: block;
+	text-align: center;
+	width: 100%;
+}
+.light-mode {
+    background: #eee;
+    color: black;
+}
+.dark-mode {
+    background: #2e2e2e;
+    color: white;
+}
+.dark{
+    color: white;
+    background: black;
+    transition: 0.5s;
+}
+.dark:hover{
+    color: black;
+    background: white;
+}
+.light{
+    color: black;
+    background: white;
+    transition: 0.5s;
+}
+.light:hover{
+    color: white;
+    background: black;
+}
+#icon{
+    font-size: 25px;
+    margin: 2px;
+}
+/* Copyright 2021-2024 E - Coders || All Rights Reserved */
