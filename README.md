@@ -16,15 +16,12 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<h2>Languages I use:</h2>
+<h2>Languages I use/know:</h2>
 <br>
 <h2>HTML</h2>
 <h2>CSS</h2>
 <h2>JavaScript</h2>
+<h2>Python</h2>
 <br><br><Br><br>
   <h2>Want a Site? Tell me On Scratch Or Github then Get it For Free!!
 
